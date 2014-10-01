@@ -5,7 +5,7 @@
         PullTheMeat()
         AddVeggies()
         AddNoodles()
-        MessageBox.Show("Simmer on medium low for 8-10 min")
+        MessageBox.Show("lalalalala on medium low for 8-10 min")
     End Sub
 
     Sub CookChicken()

@@ -16,7 +16,7 @@ Public Class Form1
         N = CInt(txtNumDisks.Text)
 
         If (N < 1) Or (N > 12) Then
-            MessageBox.Show("Please type a positive number between 1 and 12.", "Error")
+            MessageBox.Show("lalalalalalala,Please type a positive number between 1 and 12.", "Error")
             Return
         End If
 

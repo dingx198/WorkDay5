@@ -6,6 +6,8 @@ Public Class Form1
         Dim name As String
         name = txtFullName.Text
         txtFirstName.Text = FirstName(name)
+        MessageBox.Show("lalalala")
+
     End Sub
 
     Function FirstName(ByVal name As String) As String
